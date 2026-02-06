@@ -1,0 +1,40 @@
+Dish,Ingredient,Qty_per_person,Unit
+Biryani,Rice,0.20,kg
+Biryani,Chicken,0.25,kg
+Biryani,Onion,0.04,kg
+Biryani,Oil,0.08,liter
+Biryani,Spices,0.01,kg
+
+Paneer Curry,Paneer,0.15,kg
+Paneer Curry,Onion,0.05,kg
+Paneer Curry,Oil,0.05,liter
+Paneer Curry,Spices,0.01,kg
+
+Fried Rice,Rice,0.20,kg
+Fried Rice,Vegetables,0.15,kg
+Fried Rice,Oil,0.04,liter
+Fried Rice,Spices,0.008,kg
+
+Dal Tadka,Lentils,0.09,kg
+Dal Tadka,Onion,0.04,kg
+Dal Tadka,Oil,0.100,liter
+Dal Tadka,Spices,0.006,kg
+
+Veg Pulao,Rice,0.20,kg
+Veg Pulao,Vegetables,0.12,kg
+Veg Pulao,Oil,0.02,liter
+Veg Pulao,Spices,0.008,kg
+
+Chicken Curry,Chicken,0.25,kg
+Chicken Curry,Onion,0.06,kg
+Chicken Curry,Oil,0.09,liter
+Chicken Curry,Spices,0.01,kg
+
+Rajma Chawal,Rice,0.20,kg
+Rajma Chawal,Lentils,0.08,kg
+Rajma Chawal,Oil,0.05,liter
+Rajma Chawal,Spices,0.008,kg
+
+Chole Masala,Lentils,0.09,kg
+Chole Masala,Oil,0.04,liter
+Chole Masala,Spices,0.009,kg
