@@ -15,3 +15,4 @@ def train_model():
     model.fit(X, y)
 
     return model, le
+
