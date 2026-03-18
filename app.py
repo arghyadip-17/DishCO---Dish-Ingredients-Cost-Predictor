@@ -6,7 +6,7 @@ from model.cost_model import train_model
 ingredient_df = pd.read_csv("data/ingredients_per_person.csv")
 model, le = train_model()
 
-st.set_page_config(page_title="DishCO", layout="wide")
+st.set_page_config(page_title="DishCO — Predicts Dish Ingredients & Costs", layout="wide")
 st.title("🍛 DishCO - Dish Ingredients & Cost Predictor")
 
 dish = st.selectbox("Select Dish", ingredient_df["Dish"].unique())
